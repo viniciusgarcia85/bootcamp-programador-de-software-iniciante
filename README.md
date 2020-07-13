@@ -85,7 +85,7 @@ Bootcamp do Instituto de Gestão da Tecnologia de Informação - IGTI
 
 ## Progresso
 
-~~Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas.~~
+* ~~Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas.~~
 ***
 * ~~Introdução a lógica de programação;~~
 * ~~Como um programa de computador funciona;~~
