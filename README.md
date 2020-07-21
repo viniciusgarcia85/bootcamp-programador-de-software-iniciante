@@ -9,8 +9,6 @@ Bootcamp do Instituto de Gestão da Tecnologia de Informação - IGTI
 
 **Duração: 4 horas**
 
-***
-
 ### 02 - Fundamentos
 
 * Introdução a lógica de programação;
@@ -30,8 +28,6 @@ Bootcamp do Instituto de Gestão da Tecnologia de Informação - IGTI
 
 **Duração: 32 horas**
 
-***
-
 ### 03 - Java
 
 * Introdução ao Java;
@@ -46,8 +42,6 @@ Bootcamp do Instituto de Gestão da Tecnologia de Informação - IGTI
 
 **Duração: 32 horas**
 
-***
-
 ### 04 - Algoritmos e Estrutura de Dados com Java 
 
 * Introdução as estruturas de dados;
@@ -60,8 +54,6 @@ Bootcamp do Instituto de Gestão da Tecnologia de Informação - IGTI
 
 **Duração: 32 horas**
 
-***
-
 ### 05 - Python
 
 * Introdução ao python;
@@ -73,15 +65,11 @@ Bootcamp do Instituto de Gestão da Tecnologia de Informação - IGTI
 
 **Duração: 32 horas**
 
-***
-
 ### 06 - Desafio final
 
 * Conclusão da aplicação final.
 
 **Duração: 16 horas**
-
-***
 
 ## Progresso
 
@@ -95,8 +83,8 @@ Bootcamp do Instituto de Gestão da Tecnologia de Informação - IGTI
 * ~~JavaScript - tipos, valores, variáveis e comentários;~~
 * ~~JavaScript - estruturas de decisão;~~
 * ~~JavaScript - estruturas de repetição;~~
-* JavaScript - funções;
-* JavaScript - leitura/escrita de arquivos;
+* ~~JavaScript - funções;~~
+* ~~JavaScript - leitura/escrita de arquivos;~~
 * JavaScript - introdução ao HTML;
 * JavaScript - introdução ao CSS;
 * JavaScript para a web;

@@ -8,6 +8,6 @@ var banana = 3;
 var totalFrutasSacola = abacate + banana;
 
 // Trocando o n° da variável abacate
-abacate = 3
+abacate = 3;
 
-console.log('Total de frutas na sacola - ' + totalFrutasSacola);
+console.log('Total de frutas na sacola - ' + totalFrutasSacola)

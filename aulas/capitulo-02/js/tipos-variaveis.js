@@ -12,21 +12,21 @@ var variavelNaoDefinida;
 var variavelNula = null;
 
 // Tipo inteiro
-console.log(inteiro);
+console.log(inteiro)
 // Tipo decimal
-console.log(decimal);
+console.log(decimal)
 // Tipo string 
-console.log(stringAspasDuplas);
+console.log(stringAspasDuplas)
 // Tipo string
-console.log(stringAspasSimples);
+console.log(stringAspasSimples)
 // Tipo booleano
-console.log(booleanoVerdadeiro);
+console.log(booleanoVerdadeiro)
 // Tipo booleano
-console.log(booleanoFalso);
+console.log(booleanoFalso)
 // Tipo undefined
-console.log(variavelNaoDefinida);
+console.log(variavelNaoDefinida)
 // Tipo null
-console.log(variavelNula);
+console.log(variavelNula)
 
 var mudancaTipo = 1;
 console.log(mudancaTipo)
@@ -35,11 +35,11 @@ console.log(mudancaTipo)
 
 // Validando o tipo das variáveis com o typeof
 console.log(typeof(inteiro))
-console.log(typeof(decimal));
-console.log(typeof(stringAspasDuplas));
-console.log(typeof(stringAspasSimples));
-console.log(typeof(booleanoVerdadeiro));
-console.log(typeof(booleanoFalso));
-console.log(typeof(variavelNaoDefinida));
-console.log(typeof(variavelNula));
+console.log(typeof(decimal))
+console.log(typeof(stringAspasDuplas))
+console.log(typeof(stringAspasSimples))
+console.log(typeof(booleanoVerdadeiro))
+console.log(typeof(booleanoFalso))
+console.log(typeof(variavelNaoDefinida))
+console.log(typeof(variavelNula))
 

@@ -91,29 +91,29 @@ console.log('Valor: ' + valor)
 switch (fruta) {
         case 'banana':
             valor = 1;
-            break;
+            break
         case 'maça':
             valor = 2;
-            break;
+            break
         case 'abacaxi':
             valor = 3;
-            break;
+            break
         case 'melão':
             valor = 4;
-            break;
+            break
         case 'mamão':
             valor = 5;
-            break;
+            break
         default:
             valor = 10;
     }
                         
-    console.log('Valor: ' + valor);
+    console.log('Valor: ' + valor)
 
     // Operador ternário
     var x = 7;
     var y = 2;
 
-    var resultado = ''
-    resultado = x > y ? "x maior que y" : "x menor que y"
+    var resultado = '';
+    resultado = x > y ? "x maior que y" : "x menor que y";
     console.log(resultado)

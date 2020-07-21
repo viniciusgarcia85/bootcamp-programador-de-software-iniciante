@@ -1,0 +1,26 @@
+/*
+  Exercício prático - Adivinhação
+*/
+var readline = require('readline');
+var rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+})
+var numeroAleatorio = Math.round(Math.random() * 100);
+if (numeroAleatorio === 0) {
+  numeroAleatorio = 1
+}
+var numeroTentativas = 10;
+
+rl.question('Digite um número: ', function(numero) {
+  numero = parseInt(numero);
+  numeroTentativas--;
+  if (numero === numeroAleatorio) {
+    console.log('Parabéns, você acertou o número.');
+    rl.close();
+  } else if (numeroTentativas === 0) {
+    console.log('Que pena, você não descobriu o número em 10 tentativas.');
+    rl.close();
+  }
+});
+

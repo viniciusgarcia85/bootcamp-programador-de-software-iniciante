@@ -5,11 +5,11 @@
 multiples = []; 
 for (var n = 3; n < 1000; n++) {
   if ((n % 3 === 0) || (n % 5 === 0)) {
-    multiples.push(n)
+    multiples.push(n);
   }
   var sum = 0;
   for (var i = 0; i < multiples.length; i++) {
-    sum += multiples[i] 
+    sum += multiples[i] ;
   }
 }
 console.log("The sum of these multiples is " + sum)

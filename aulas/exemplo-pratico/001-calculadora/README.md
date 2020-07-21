@@ -1,6 +1,4 @@
-001 - Exemplo prático - Calculadora
-
-### Tópicos da aula
+### 001 - Exemplo prático - Calculadora
 
 - [x] Adição
 - [x] Subtração
@@ -9,4 +7,3 @@
 - [x] Resto
 - [x] Porcentagem
 - [x] Recebendo parâmetros pela linha de comando
- 
