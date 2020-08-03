@@ -1,0 +1,40 @@
+.body {
+  text-align: center;
+}
+
+.div-input {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.label {
+  font-size: 20px;
+}
+
+.input {
+  font-size: 20px;
+  border: 2px solid darkblue;
+  border-radius: 7px;
+}
+
+.btn-calcular {
+  font-size: 20px;
+  width: 120px;
+  height: 40px;
+  background-color: rgb(88, 173, 173);
+  color: white;
+}
+.btn-limpar {
+  font-size: 20px;
+  width: 120px;
+  height: 40px;
+  background-color: rgb(214, 165, 58);
+  color: white;
+}
+
+.resultado {
+  font-size: 40px;
+  padding: 20px;
+  margin: 20px;
+  color: blue;
+}

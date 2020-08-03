@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Página Principal - Parte 03</title>
+</head>
+<body>
+  <p id="paragrafo1">Esse é o primeiro parágrafo</p>
+  <input type="text" id="input-cor">
+  <button type="button" 
+          onclick="document.getElementById('paragrafo1').style.visibility = 'hidden'"> 
+          Esconder parágrafo
+  </button>
+  <button type="button" 
+          onclick="document.getElementById('paragrafo1').style.visibility = 'visible'"> 
+          Mostrar parágrafo
+  </button>
+
+  <button type="button" id="input-cor" onclick="trocaCor()">Troca a cor</button>
+
+  <script>
+    var p = document.getElementById('paragrafo1')
+    p.style.color = 'red';
+    p.style.fontWeight = 'bold';
+    p.style.fontSize = '30px';
+
+    function trocaCor () {
+      var cor = document.getElementById('input-cor').value;
+      document.getElementById('paragrafo1').style.color = cor;
+    }
+
+  </script>
+</body>
+</html>

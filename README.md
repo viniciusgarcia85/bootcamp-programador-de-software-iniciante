@@ -85,17 +85,17 @@ Bootcamp do Instituto de Gestão da Tecnologia de Informação - IGTI
 * ~~JavaScript - estruturas de repetição;~~
 * ~~JavaScript - funções;~~
 * ~~JavaScript - leitura/escrita de arquivos;~~
-* JavaScript - introdução ao HTML;
-* JavaScript - introdução ao CSS;
-* JavaScript para a web;
-* Manipulação de HTML, CSS e Eventos com JavaScript.
+* ~~JavaScript - introdução ao HTML;~~
+* ~~JavaScript - introdução ao CSS;~~
+* ~~JavaScript para a web;~~
+* ~~Manipulação de HTML, CSS e Eventos com JavaScript.~~
 ***
-* Introdução ao Java;
-* Java x JavaScript;
-* Aplicações do Java;
-* Instalação e configuração de ferramentas e ambiente de execução de código Java;
-* Java - tipos, valores, variáveis e comentários;
-* Java - estruturas de decisão;
+* ~~Introdução ao Java;~~
+* ~~Java x JavaScript;~~
+* ~~Aplicações do Java;~~
+* ~~Instalação e configuração de ferramentas e ambiente de execução de código Java;~~
+* ~~Java - tipos, valores, variáveis e comentários;~~
+* ~~Java - estruturas de decisão;~~
 * Java - estruturas de repetição;
 * Java - métodos;
 * Java - classes e objetos.

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/style.css">
+  <title>Página Principal - Principais tags</title>
+</head>
+<body>
+  <img src="./imagens/logo-igti.jpg" alt="">
+  <!-- Níveis de título h1, h2, h3, h4, h5, h6 --> 
+  <h1 class="texto-header">Heading 1</h1> 
+  <!-- CSS Inline -->
+  <h2 style="color: blue; background-color: #000055">Heading 2</h2> 
+  <h3 id="texto3">Heading 3</h3>
+  <h4 class="borda">Heading 4</h4>
+  <h5>Heading 5</h5>
+  <h6>Heading 6</h6>
+
+  <!-- Parágrafos  -->
+  <p id="paragrafo1">Esse é o primeiro parágrafo</p><br> <!-- <br> - break row (quebra de linha) -->
+  <p id="paragrafo2">Esse é o segundo parágrafo</p><br>
+  <p id="paragrafo3">Esse é o terceiro parágrafo</p>
+
+  <!-- Links -->
+  <a href="https://www.igti.com.br">ir para o site do IGTI</a> <br><br>
+
+  <!-- Inputs -->  
+  <input type="text"> <!-- Tipo texto --> <br><br>
+
+  <input type="number"> <!-- Tipo number --> <br><br>
+
+  <input type="checkbox" id="carro">
+  <label for="carro">Uno</label>
+
+  <input type="checkbox" id="moto">
+  <label for="moto">Titan Fan</label>
+
+  <input type="checkbox" id="bicicleta">
+  <label for="bicicleta">GTS</label><br><br>
+
+  <input type="radio" id="masculino" value="Masculino" name="sexo">
+  <label for="masculino">Masculino</label>
+
+  <input type="radio" id="feminino" value="Feminino" name="sexo">
+  <label for="feminino">Feminino</label>
+
+  <input type="radio" id="outros" value="outros" name="sexo">
+  <label for="outros">Outros</label><br><br>
+
+  <select name="" id="">
+    <option value="uno" selected>Uno</option> <!-- selected - o valor uno já ficará marcado -->
+    <option value="gol">Gol</option>
+    <option value="celta">Celta</option>
+    <option value="palio">Palio</option>
+  </select> <br><br>
+
+  <select name="" id="" multiple> <!-- multiple - permite múltiplas escolhas no seletor -->
+    <option value="corsa" selected>Uno</option>
+    <option value="escort">Gol</option>
+    <option value="fusca">Celta</option>
+    <option value="passat">Palio</option>
+  </select> <br><br>
+
+  <textarea name="" id="" cols="20" rows="5">
+    Texto inicial 
+  </textarea>
+  
+</body>
+</html>

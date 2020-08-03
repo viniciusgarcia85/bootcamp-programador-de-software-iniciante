@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/style.css">
+  <title>Página Principal - Manipulação de tags</title>
+</head>
+<body>
+  <img src="./imagens/logo-igti.jpg" alt="">
+
+  <!-- Parágrafos por ID  -->
+  <p id="paragrafo1">Esse é o primeiro parágrafo</p> <!-- <br> - break row (quebra de linha) -->
+  <p id="paragrafo2">Esse é o segundo parágrafo</p>
+  <p id="paragrafo3">Esse é o terceiro parágrafo</p>
+  <!-- Parágrafos por class -->
+  <p class="paragrafo">Esse é o quarto parágrafo</p>
+  <p class="paragrafo">Esse é o quinto parágrafo</p>
+  <p class="paragrafo">Esse é o sexto parágrafo</p>
+
+  <button type="button" onclick="clickBotao1()">Clique aqui1</button><br><br>
+  <button type="button" onclick="clickBotao2()">Clique aqui2</button><br><br>
+  <button type="button" onclick="clickBotao3()">Clique aqui3</button><br><br>
+
+  <img src="./imagens/apagada.jpg" id="lampada" alt="Lampada apagada"><br>
+  <button type="button" onclick="ligarLampada()">ON</button><br><br>
+  <button type="button" onclick="desligarLampada()">OFF</button><br><br>
+  <button type="button" onclick="adicionarElemento()">ADD</button>
+  <button type="button" onclick="removerElemento()">REMOVE</button>
+  <div id="div-elementos">
+
+  </div>
+  <script src="./js/script.js">
+    
+  </script>
+  
+</body>
+</html>
