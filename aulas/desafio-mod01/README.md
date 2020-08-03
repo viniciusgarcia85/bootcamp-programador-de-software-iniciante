@@ -22,7 +22,7 @@ A lista de funcionários será fornecida em um arquivo chamado funcionarios.json
 
 Segue abaixo um exemplo da estrutura deste arquivo:
 
-''' 
+````
 {
   "funcionarios": [
     {
@@ -37,8 +37,8 @@ Segue abaixo um exemplo da estrutura deste arquivo:
       "setor": "Produção"
     }
   ]
-}
-'''
+ }
+````
 
 O aluno poderá ler o arquivo pelo programa a ser desenvolvido, ou senão criar uma variável dentro do programa já com os dados fornecidos, não sendo então obrigatório o processo de leitura do arquivo.
 
